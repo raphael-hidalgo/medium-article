@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Roboto:wght@900;300&display=swap');
 
 .banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   font-size: 24px;
   color: rgb(250,250,250);
   font-family: "Open Sans";
